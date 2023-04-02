@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Firebase Notification</string>
+    <string name="token_failed">Fetching FCM registration token failed</string>
 </resources>
